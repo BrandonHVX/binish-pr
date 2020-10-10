@@ -18,13 +18,13 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: title,
+        name: "Binish PR Agency",
         short_name: "Agency",
         start_url: "/",
         background_color: "#ffffff",
         theme_color: "#fed136",
         display: "minimal-ui",
-        icon: "content/assets/gatsby-icon.png",
+        icon: "content/assets/b-icon.png",
       },
     },
     "gatsby-transformer-remark",
