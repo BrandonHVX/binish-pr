@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: ""
 social: {
   twitter: "#",
   facebook: "#",
