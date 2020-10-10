@@ -9,7 +9,7 @@ import useWindowOnScroll from "hooks/useWindowOnScroll";
 import useSmoothScrollTo from "hooks/useSmoothScrollTo";
 import Icon from "components/Icon";
 import NavItem from "components/NavItem";
-import BanishLogo from "../../../content/assets/images/banish-logo.png"
+import BanishLogo from "../../../content/assets/images/binishPR.png"
 import "./Navbar.scss";
 
 const MyNavbar = ({ anchors, frontmatter, extraItems, }) => {
